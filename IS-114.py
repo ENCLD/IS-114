@@ -2,7 +2,7 @@
 
 #----------------------------
 
-name1 = input("Hello, what is your name? ")
+name1 = input("Helllo, what is your name? ")
 
 name1Cap = name1.capitalize()
 
