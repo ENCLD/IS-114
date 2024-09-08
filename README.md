@@ -1,4 +1,4 @@
 # IS-114
 # 
-# Project for coding
-#Balblabla
+# Operativ system: Windows 10 Pro Education
+# Versjon: 22H2
